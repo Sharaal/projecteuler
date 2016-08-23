@@ -64,4 +64,4 @@ for (let start = 1; start <= digits.length - size; ++start) {
   }
 }
 
-console.log(largest, largest === 0);
+console.log(largest, largest === 23514624000);
